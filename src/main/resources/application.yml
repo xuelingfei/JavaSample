@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: JavaSample
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: ASdfghjKl;'
+    url: jdbc:mysql://localhost:3306/java_sample
+server:
+  address: localhost
+  port: 8080
